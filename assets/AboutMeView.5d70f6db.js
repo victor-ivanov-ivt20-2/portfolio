@@ -1,1 +1,0 @@
-import{d as e,_ as o,o as t,c as s}from"./index.a3d3dd65.js";const c=e({}),n={class:"about-me"};function a(r,_,p,d,i,f){return t(),s("div",n," Hello ")}const m=o(c,[["render",a]]);export{m as default};
